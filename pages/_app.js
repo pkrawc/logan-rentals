@@ -1,4 +1,5 @@
-import { Fragment, createGlobalStyle, ThemeProvider } from "styled-components"
+import { Fragment } from "react"
+import { createGlobalStyle, ThemeProvider } from "styled-components"
 
 const GlobalStyle = createGlobalStyle`
   body {
